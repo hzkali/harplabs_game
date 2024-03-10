@@ -1,0 +1,21 @@
+{
+  "name": "solanaroulette",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "solana",
+    "node",
+    "web3"
+  ],
+  "author": "Jose Sahagun",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/web3.js": "^1.91.0",
+    "figlet": "^1.7.0",
+    "inquirer": "^9.2.15"
+  }
+}
